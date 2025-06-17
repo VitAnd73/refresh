@@ -1,0 +1,8 @@
+Testing
+    setup
+        Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library 2025
+        https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48
+
+        https://medium.com/@vitor.vicen.te/setting-up-jest-js-for-a-vite-ts-js-react-project-the-ultimate-guide-7816f4c8b738
+
+
