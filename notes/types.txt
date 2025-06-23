@@ -1,0 +1,6 @@
+Рецепты Typescript: выбор одного и только одного обязательного поля в объекте
+https://habr.com/ru/companies/cloud_ru/articles/868762/
+
+
+Рецепты TypeScript: перевод ключей объекта в camelCase
+https://habr.com/ru/companies/cloud_ru/articles/860778/
