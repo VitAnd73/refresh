@@ -1,5 +1,10 @@
 export default {
   testEnvironment: "jsdom",
+  testMatch: [
+    "**/__tests__/**/*.?([mc])[jt]s?(x)",
+    "**/?(*.)+(spec|test).?([mc])[jt]s?(x)"
+  ],
+
   transform: {
     "^.+\\.tsx?$": [
       "ts-jest",
